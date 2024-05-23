@@ -15,3 +15,6 @@ I'm a passionate front-end developer with a strong foundation in HTML, CSS, Java
 ## 📫 How to reach me
 - **Email**: lanhtuan65@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/anh-tu%E1%BA%A5n-l%C3%AA-a5259620a/
+
+## 📝 Latest Projects
+- **Project 1**: https://github.com/datnht2602/Booking-Clinic.git
