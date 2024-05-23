@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @thegamer256
-- 👀 I’m interested in playing Game
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Lê Anh Tuấn! 👋
 
-<!---
-thegamer256/thegamer256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate front-end developer with a strong foundation in HTML, CSS, JavaScript, Java, and Java Servlet. I enjoy building responsive and interactive web applications.
+
+## 🛠 Skills
+- **Front-end Development**: HTML, CSS, JavaScript
+- **Back-end Development**: Java, Java Servlet
+
+## 🌟 Highlights
+- Experienced in creating user-friendly and visually appealing web pages.
+- Proficient in front-end technologies and frameworks.
+- Strong understanding of web development principles and best practices.
+
+## 📫 How to reach me
+- **Email**: lanhtuan65@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/anh-tu%E1%BA%A5n-l%C3%AA-a5259620a/
